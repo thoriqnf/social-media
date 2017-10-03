@@ -1,0 +1,51 @@
+header {
+  text-align: center;
+  color: #2980b9;
+  background: #ffffff;
+}
+
+body {
+  background: #2980b9;
+}
+
+nav.menu ul {
+  text-align: center;
+  color: #fff;
+  float: left;
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+  background: #2980b9;
+}
+
+nav.menu ul li {
+  margin: 0;
+  float: left;
+}
+
+nav.menu ul a {
+  padding: 25px;
+  display: block;
+  font-weight: 600;
+  font-size: 16px;
+  color: #fff;
+  text-transform: uppercase;
+  transition: all 0.5s ease;
+  text-decoration: none;
+}
+
+.Post {
+  color: #2980b9;
+  background: #ffffff;
+  width: 75%;
+}
+
+.SideBar{
+  float: right;
+}
+
+footer {
+  text-align: center;
+  color: #2980b9;
+  background: #ffffff;
+}
